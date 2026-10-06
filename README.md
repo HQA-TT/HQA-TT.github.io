@@ -16,7 +16,7 @@ Both URLs returned HTTP 200 on 29 September 2026. GitHub Pages is configured to 
    | App | Privacy Policy URL |
    | --- | --- |
    | AnoBrowser | `https://artemisx-sq01.github.io/legal/anobrowser/privacy.html` |
-   | NijPath Browser | `https://artemisx-sq01.github.io/legal/nijpath/privacy.html` |
+   | NijPath Browser | `https://hqa-tt.github.io/legal/nijpath/privacy.html` |
    | Novalira | `https://hqa-tt.github.io/legal/novalira/privacy.html` |
 
 2. In AdMob, use **Apps → View all apps → app-ads.txt** to check the status. AdMob can take up to 24 hours to detect a changed Play listing or crawl the file. Its **Check for updates** action can request another crawl.
