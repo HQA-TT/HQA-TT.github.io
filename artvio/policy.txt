@@ -1,7 +1,7 @@
 ARTVIO - PRIVACY POLICY
 
-Last updated: 31 July 2026
-Effective date: 31 July 2026
+Last updated: 29 October 2026
+Effective date: 29 October 2026
 
 
 1. WHO WE ARE
@@ -24,13 +24,15 @@ agree, please do not use the App.
 - Photos you choose and text you type are sent to our servers only to produce
   the result you asked for, and are then forwarded to a third-party AI provider
   that performs the processing.
-- We do not store your photos, your prompts, or your chat messages on our
-  servers. Our servers keep only aggregate usage counters (number of requests
-  and tokens per day).
+- Content used for generation is not stored on our servers, except when you
+  voluntarily submit selected AI content in a report. We also keep aggregate
+  usage counters (number of requests and tokens per day).
 - The App shows advertising. Advertising partners collect device and
   advertising identifiers in order to serve and measure ads. This is the main
   category of personal data associated with the App.
-- Images you create and your chat history are stored on your device only.
+- Images you create and your chat history are stored on your device. If you
+  choose Report, the selected AI answer or generated image is sent to us for
+  review together with your report details.
 
 
 3. INFORMATION WE COLLECT
@@ -46,8 +48,16 @@ agree, please do not use the App.
   processing servers so a reply can be generated. Because the AI service is
   stateless, the current conversation is re-sent with each message.
 
+- Content reports (optional). When you tap Report on an AI answer or image,
+  we receive that selected answer or a resized copy of the generated image,
+  your chosen reason, any comments you enter, app version, selected language
+  and a random report reference. We do not attach your entire chat history,
+  photo library, email address or a device identifier to the report payload.
+  Reports go directly to Artvio for review, not to our AI provider or analytics
+  services. Standard server connection logs may contain your IP address.
+
 Do not include personal, confidential, or sensitive information in photos,
-prompts, or chat messages.
+prompts, chat messages or report comments.
 
 3.2 Information collected automatically
 
@@ -89,6 +99,8 @@ collected:
   App.
 - To enforce usage limits and protect the service against abuse and automated
   misuse.
+- To investigate content reports, moderate offensive content and improve
+  content safety and filtering.
 
 We do not sell your personal information.
 
@@ -137,11 +149,17 @@ used, and you may change your choice at any time.
 7. DATA STORAGE AND RETENTION
 
 Our servers
-- Photos, prompts, and chat messages are held in memory only for as long as it
-  takes to forward them to the AI provider and return the result. They are not
-  written to disk and not retained in any database.
-- We retain only aggregate usage counters: number of requests and tokens per
-  day, and per anonymous client identifier. These contain no personal content.
+- For generation requests, photos, prompts, and chat messages are held in
+  memory while the AI provider processes the request. They are not written
+  to disk by our proxy, except for selected content you voluntarily report.
+- We retain aggregate usage counters: number of requests and tokens per day,
+  and per anonymous client identifier. These counters contain no personal content.
+- Voluntary content reports are stored separately on our servers with access
+  restricted to authorized reviewers. Reports are automatically deleted in
+  daily cleanup after 90 days of inactivity. We use them to investigate
+  issues and improve moderation. Contact support@artemisx.net for assistance
+  with a report or to request deletion; provide the approximate date and type
+  of content so we can locate it without an account.
 - Standard server logs may briefly record IP addresses and request paths for
   security and troubleshooting.
 
@@ -152,7 +170,8 @@ Third parties
 
 8. DATA STORED ON YOUR DEVICE
 
-The following stays on your device and is never uploaded by us:
+The following is stored on your device. AI processing and voluntary reports
+send only the content described in section 3:
 
 - Images you have created (visible under "My Creations").
 - Your chat history.
