@@ -1,0 +1,49 @@
+REMOTE SMART TV — PRIVACY POLICY
+
+Effective date and last updated: 31 October 2026
+Android package: com.tt.remote.on
+
+1. Who we are and how to contact us
+Remote Smart TV (the “App”) is published by H-VNCareer through HQA-TT (“we”, “us”). This policy describes how information is handled when you use the App. For privacy questions, access or deletion requests, contact long123v123@gmail.com and identify Remote Smart TV. Developer website: https://hqa-tt.github.io/.
+
+2. TV discovery, pairing and remote control
+The App uses your local network to discover compatible TVs and streaming devices. It processes device names, manufacturers, local IP addresses, connection status and supported services to show available devices and connect to the device you select. Nearby Wi-Fi permission, where requested by Android, is used for nearby device connectivity, not to determine your precise location.
+Selected device details and pairing tokens are stored in the App’s private storage so you can reconnect. Remote commands, touchpad actions, keyboard text and requests to open TV apps are sent to your selected TV or streaming device. TV app lists refer to applications on the TV; the App does not use this feature to inventory apps installed on your phone. We do not intentionally send your keyboard text or TV pairing tokens to advertising or analytics services.
+
+3. Photos, videos and screen casting
+You choose photos or videos through Android’s file picker. The App reads the files you select to preview them and, when you request casting, serves that selected media over a temporary local HTTP connection for the receiving device to play. It does not upload selected media to a developer-operated media server. A device on the same network that obtains the temporary media URL may also be able to access it; use a trusted network and end the cast when finished. Receiver devices and Google Cast services may process connection and playback information under their own policies.
+The screen mirroring shortcut opens Android’s casting settings. Any screen sharing session is managed by Android and the selected receiving device. Content visible on your screen may be displayed on that device.
+
+4. Local preferences and diagnostic logs
+The App stores preferences such as language, appearance, onboarding status and selected TV information locally. A rolling connection log stores up to 200 lines, including timestamps, connection events, device/network details and error messages. You can view and clear it in Settings → Connection log. Copying or sharing a log is your choice; review it before sending it to anyone. The App does not automatically upload this log to us.
+Android backup is enabled. Depending on your system and backup settings, app preferences and files may be backed up or restored by Android or your backup provider.
+
+5. Advertising, analytics and remote configuration
+The App is supported by advertising. It uses Artermisx integration libraries with Google Mobile Ads and may use mediation partners including Meta Audience Network, InMobi and Pangle, or AppLovin MAX when configured. Advertising services may collect and share IP addresses (which can indicate approximate location), advertising and app-set identifiers, device and app information, ad views/clicks, performance information and diagnostics. They use this information to deliver and measure ads, prevent fraud, and maintain their services. Advertising behavior depends on the active configuration, available partners, region and device privacy settings. We do not represent that advertising SDKs collect no data merely because a test ad is displayed.
+Firebase Analytics and Remote Config are enabled in the App’s Firebase configuration. These services can process app-instance identifiers, device/app information, app interactions, configuration requests and ad-related events to measure usage and deliver configuration. App events use fixed action labels, timings and error codes rather than the photos, videos or keyboard text you select or enter.
+An Adjust attribution SDK is included. In the current release its App Token is unset, so Adjust attribution is not configured. If enabled in a future release, its data practices will be reflected in an updated policy.
+Provider information:
+Google: https://policies.google.com/privacy
+Google advertising data: https://developers.google.com/admob/android/privacy/play-data-disclosure
+Firebase: https://firebase.google.com/support/privacy
+Meta: https://www.facebook.com/privacy/policy/
+InMobi: https://www.inmobi.com/privacy-policy
+Pangle: https://www.pangleglobal.com/privacy
+AppLovin: https://www.applovin.com/privacy/
+Adjust: https://www.adjust.com/terms/privacy-policy/
+
+6. Purposes, sharing and legal grounds
+Information is used to provide the functions you request, remember settings, diagnose failures, measure usage, fund the App with ads and protect services against abuse. It is shared with receiving devices you choose, the service providers described above and, when necessary, authorities to comply with legal obligations or protect rights. We do not operate a business selling your selected media or pairing tokens. Advertising identifiers and activity may be shared with ad providers, which may constitute “sale” or “sharing” under some regional laws.
+Where applicable, processing relies on providing the requested service, legitimate interests in maintaining and securing it, legal obligations, or consent where required. Provider processing can occur outside your country, including countries with different privacy laws; provider policies describe their transfer safeguards.
+
+7. Retention, deletion and your choices
+Local preferences and pairing information remain until replaced, cleared through Android app storage controls, or removed by uninstalling the App, subject to system backups. The connection log is bounded to 200 lines and can be cleared separately. The media server stops when the casting session ends. Deleting App data does not automatically delete files you selected, TV-side pairing records, system backups or data already held by service providers.
+Third-party services retain data according to their own policies and settings. If you contact support, we use your email and the information you choose to send to handle the request and retain it only as needed for support, legal or security purposes.
+You can deny or revoke nearby-device/file access, stop casting, clear app data, adjust Android advertising privacy controls, or stop using the App. Some functions may then be unavailable. Depending on your location, you may have rights to access, correct, delete, restrict, object to processing, obtain a copy of your data or withdraw consent, and to complain to your data protection authority. Contact us to exercise applicable rights; we may need proportionate information to verify and locate your request. We cannot identify all SDK records from an email address alone. The App does not require a user account.
+
+8. Security and children
+We use Android private storage and available platform protections, but no storage or transmission is completely secure. Some TV protocols and the local media server use unencrypted local communication; certain TV connections accept the TV’s self-signed certificate. Use devices and networks you trust. Do not use the TV keyboard to send sensitive information unless you trust the receiving device.
+The App is a general-audience utility and is not directed to children under 13. If you believe a child has supplied personal information to us, contact us so we can investigate and take appropriate action.
+
+9. Website and policy changes
+These legal pages are hosted on GitHub Pages. GitHub may process request information such as IP addresses and browser details under https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement. We may update this policy as the App changes and will revise the date above, providing additional notice where required. Terms of Service: https://hqa-tt.github.io/remote/terms.html.

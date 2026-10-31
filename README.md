@@ -37,3 +37,10 @@ References: [GitHub Pages setup](https://docs.github.com/en/pages/quickstart), [
 - Plain-text copies: `/artvio/policy.txt` and `/artvio/terms.txt`
 
 Migrated from Artvio `docs/legal` on 25 October 2026. Existing policy wording, operator, contact details, and effective dates are preserved; document URLs point to this host.
+
+## Remote Smart TV legal pages
+
+- Privacy: https://hqa-tt.github.io/remote/privacy.html
+- Terms: https://hqa-tt.github.io/remote/terms.html
+
+Added 31 October 2026 for Android package `com.tt.remote.on`.
