@@ -44,3 +44,11 @@ Migrated from Artvio `docs/legal` on 25 October 2026. Existing policy wording, o
 - Terms: https://hqa-tt.github.io/remote/terms.html
 
 Added 31 October 2026 for Android package `com.tt.remote.on`.
+
+## AI Chat: AI Art Generator legal pages
+
+- Privacy: https://hqa-tt.github.io/aichat02/privacy.html
+- Terms: https://hqa-tt.github.io/aichat02/terms.html
+- Plain-text copies: `/aichat02/privacy.txt` and `/aichat02/terms.txt`
+
+Added 4 November 2026 for Android package `com.tt.aichat.tw`.
