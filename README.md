@@ -1,6 +1,6 @@
 # H-VNCareer developer website
 
-Static GitHub Pages website for AnoBrowser, NijPath Browser, Novalira, Artvio, AI Chat: AI Art Generator, Remote Smart TV, and ShortFlix. The root [`app-ads.txt`](app-ads.txt) contains the Google seller line found in `/home/jori/TT/app-ads.txt` at preparation time. **Confirm that `pub-2448331992138830` is the publisher ID shown in your AdMob account before publishing.** Add any other authorized seller lines supplied by the ad networks you actually use.
+Static GitHub Pages website for AnoBrowser, NijPath Browser, Novalira, Artvio, AI Chat: AI Art Generator, Remote Smart TV, ShortFlix, and ChatGenie. The root [`app-ads.txt`](app-ads.txt) contains the Google seller line found in `/home/jori/TT/app-ads.txt` at preparation time. **Confirm that `pub-2448331992138830` is the publisher ID shown in your AdMob account before publishing.** Add any other authorized seller lines supplied by the ad networks you actually use.
 
 ## Published URLs
 
@@ -20,6 +20,7 @@ Both URLs returned HTTP 200 on 29 September 2026. GitHub Pages is configured to 
    | Artvio | `https://hqa-tt.github.io/artvio/privacy.html` |
    | Novalira | `https://hqa-tt.github.io/legal/novalira/privacy.html` |
    | ShortFlix | `https://hqa-tt.github.io/legal/shortflix/privacy.html` |
+   | ChatGenie | `https://hqa-tt.github.io/chatgenie/privacy.html` |
 
 2. In AdMob, use **Apps → View all apps → app-ads.txt** to check the status. AdMob can take up to 24 hours to detect a changed Play listing or crawl the file. Its **Check for updates** action can request another crawl.
 
@@ -60,3 +61,11 @@ Added 4 November 2026 for Android package `com.tt.aichat.tw`.
 - Terms: https://hqa-tt.github.io/legal/shortflix/terms.html
 
 Added 22 November 2026 for Android package `com.tt.shortflix.on`. Hosted in the separate `legal` repository under `/shortflix/`.
+
+## ChatGenie legal pages
+
+- Privacy: https://hqa-tt.github.io/chatgenie/privacy.html
+- Terms: https://hqa-tt.github.io/chatgenie/terms.html
+- Plain-text copies: `/chatgenie/privacy.txt` and `/chatgenie/terms.txt`
+
+Added 23 November 2026 for Android package `com.tt.chatgenie.on`.

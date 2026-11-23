@@ -1,0 +1,57 @@
+CHATGENIE — PRIVACY POLICY
+
+Effective date and last updated: 23 November 2026
+Android package: com.tt.chatgenie.on
+
+1. Who we are and how to contact us
+ChatGenie (the “App”) is published by H-VNCareer through HQA-TT (“we”, “us”). This policy describes how information is handled when you use the App. For privacy questions, access or deletion requests, contact long123v123@gmail.com and identify ChatGenie. Developer website: https://hqa-tt.github.io/.
+
+2. AI conversations, prompts and creative generation
+When you chat with ChatGenie or ask it to create images, the App sends the text prompts, messages and other content you submit to our backend service to process your request. Our backend may forward the content needed for a request to an external AI processing provider. Replies and generated visuals are returned to the App for display. Please avoid submitting passwords, financial information or other sensitive personal data in prompts.
+
+The App communicates with our backend over HTTPS. Technical request information, including a client identifier, request timestamp, request nonce and an installation identifier, may be processed to authenticate requests, limit misuse and operate the service. The installation identifier is not described as an account identity. Processing by external AI providers is subject to the providers' applicable practices and agreements.
+
+AI features can be disabled or run in a demonstration mode. In demonstration mode, sample replies or images may appear instead of results from a live AI provider. Availability of chat, image creation and editing may change with the service configuration.
+
+3. Images and optional photo tools
+If ChatGenie offers image tools and you choose a photo for processing, the App needs access to the selected image to complete the request. Depending on how that feature is implemented and configured, selected image content may be transmitted to our backend and an AI processing provider. Do not submit images containing information you do not wish to share with those services. Image tools may be unavailable in some versions or configurations.
+
+The App does not need access to your entire photo library merely to process an image you deliberately select. Any device permissions or system picker behavior depend on the features and Android version in use.
+
+4. Local settings, operational data and support
+The App may store local preferences, such as language, onboarding choices and feature settings, on your device. Our backend processes technical information necessary to handle requests and protect the service, which may include network addresses, request metadata, service errors and usage counts. Technical records should not be confused with a guarantee that chat messages or images are never stored: actual retention depends on backend logging, provider settings and operational safeguards.
+
+If you email us for support, we receive your email address and the information you choose to include. We use this information to answer your request and resolve the reported issue.
+
+5. Advertising, analytics and third-party integrations
+The App includes a Google Mobile Ads / AdMob integration and may display advertisements. Advertising services may process IP addresses (which can indicate approximate location), advertising or app-set identifiers, device and app details, ad views or clicks, performance data and diagnostics to deliver ads, measure results and prevent fraud. Advertising behavior depends on the production configuration, region, device privacy settings and applicable consent choices. A test advertisement does not mean an advertising SDK processes no data.
+
+The App is configured with a Firebase project. Firebase services that are actually enabled in a given release may process app-instance identifiers, device and app information, diagnostic data, app interactions or configuration requests. The presence of a Firebase configuration file alone does not establish that every Firebase service is active.
+
+An Adjust integration may be included in the Android template. Attribution data processing by Adjust applies only if the SDK is configured and enabled in the released App. We will update this policy when material integrations or processing practices change.
+
+Provider information:
+Google: https://policies.google.com/privacy
+Google advertising data: https://developers.google.com/admob/android/privacy/play-data-disclosure
+Firebase: https://firebase.google.com/support/privacy
+Adjust: https://www.adjust.com/terms/privacy-policy/
+
+6. Purposes, sharing and legal grounds
+Information is processed to provide AI conversation and creative tools, operate and secure the App and backend, diagnose failures, respond to support requests and, where enabled, deliver advertising and measure performance. Information may be shared with AI processing providers, hosting and infrastructure providers, advertising or analytics providers and authorities when required by law. We do not operate a business that directly sells users' chat prompts or uploaded images. Some advertising disclosures may qualify as “sale” or “sharing” under certain regional privacy laws.
+
+Where applicable, processing may rely on providing a requested service, legitimate interests in security and reliability, legal obligations, or consent where required. Service providers may process information in other countries subject to their applicable transfer safeguards.
+
+7. Retention, deletion and your choices
+Local App data can generally be removed using Android's app storage controls or by uninstalling the App, subject to device backup behavior. This does not automatically remove records held by our backend or third-party service providers.
+
+Backend technical logs, usage records, AI request data and provider-held information may have different retention periods depending on configuration, operational requirements and provider policies. We do not promise automatic immediate deletion of all submitted content when you close the App. If you wish to request access to or deletion of information we control, email long123v123@gmail.com and describe your request. We may ask for reasonable details to locate and verify relevant records. We cannot necessarily identify all device or provider records from an email address alone.
+
+You may also adjust Android permissions and advertising privacy settings, decline optional permissions or stop using the App. Some features may then be unavailable. Depending on your location, you may have rights to access, correct, delete, restrict or object to processing, obtain a copy of data, withdraw consent and complain to a data protection authority.
+
+8. Security and children
+We use HTTPS for communication with our backend and reasonable technical and organizational measures intended to protect information. No network or storage system is completely secure. Do not include sensitive personal information in prompts unless necessary and appropriate.
+
+The App is intended for a general audience and is not specifically directed to children under 13. If you believe a child has provided personal information in violation of applicable law, contact us so we can investigate and take appropriate action. The App's declared target audience in Google Play must match its actual content, design and marketing.
+
+9. Website and policy changes
+These legal pages are hosted on GitHub Pages. GitHub may process request information, such as IP addresses and browser details, under https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement. We may update this policy when App functionality, providers or data practices change and will revise the date above, with additional notice where required.
